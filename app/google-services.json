@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "129902016315",
+    "project_id": "onlinenotebook-6973c",
+    "storage_bucket": "onlinenotebook-6973c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129902016315:android:9fb2e11a05894868bc691e",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129902016315-14vk1hi0piqtip2mtqj4pbbprimarpgj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHZrpGsXotzl6q8BOv_m6XAy2ROu8mYA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129902016315-14vk1hi0piqtip2mtqj4pbbprimarpgj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
