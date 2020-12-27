@@ -17,7 +17,7 @@ import android.widget.Toast;
 
 import com.google.firebase.auth.FirebaseAuth;
 
-public class LoginActivity extends AppCompatActivity {
+class LoginActivity extends AppCompatActivity {
     private EditText edtUsername,edtPassword;
     private Button buttonL,buttonS;
     private ProgressBar loading;
@@ -34,7 +34,7 @@ public class LoginActivity extends AppCompatActivity {
 
         edtUsername = findViewById(R.id.loginE);
         edtPassword = findViewById(R.id.loginP);
-        buttonL = findViewById(R.id.buttonL;
+        buttonL = findViewById(R.id.buttonL);
         buttonS = findViewById(R.id.buttonS);
 
         loading = findViewById(R.id.progressBar);
